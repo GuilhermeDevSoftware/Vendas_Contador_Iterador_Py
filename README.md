@@ -23,13 +23,21 @@ roupas,100
 
 Processando vendas...
 Categoria: eletronicos - Preço R$400.00 - Total R$400.00
+
 Categoria: roupas - Preço R$200.00 - Total R$600.00
+
 Categoria: alimentos - Preço R$150.00 - Total R$750.00
+
 Categoria: eletronicos - Preço R$170.00 - Total R$920.00
+
 Categoria: alimentos - Preço R$300.00 - Total R$1220.00
+
 Categoria: roupas - Preço R$100.00 - Total R$1320.00
+
 eletronicos : 2 vendas
+
 roupas : 2 vendas
+
 alimentos : 2 vendas
 
 ## 🎓 Objetivo
